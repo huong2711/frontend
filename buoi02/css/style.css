@@ -46,6 +46,7 @@ image{
     display: flex;
     height:1rem;
     width: 5rem;
+    color: white;
 }
 
 .btn span{
@@ -65,4 +66,21 @@ image{
 
 .banner:hover h1{
     color: blue;
+}
+
+p:hover{
+    color: blue;
+}
+
+svg:hover{
+    color: blue;
+}
+
+svg{
+    color: white;
+ 
+}
+
+.btn:hover{
+    background-color: blue;
 }
